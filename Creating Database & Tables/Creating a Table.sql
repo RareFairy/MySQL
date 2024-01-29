@@ -1,6 +1,6 @@
 use sales;
 
-create table sales  
+create table sales 
 (  
 	purchase_number int not null primary key auto_increment,  
 	date_of_purchase date not null,  
